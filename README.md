@@ -1,7 +1,7 @@
 .
-├─ app/                 
-├─ artifacts/         
-├─ models/
+├─ app/                    
+├─ artifacts/            
+├─ models/   
 │  └─ knncf.pkl        
 ├─ notebooks/
 │  └─ eda_movielens.ipynb 
